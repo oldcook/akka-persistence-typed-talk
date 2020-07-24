@@ -1,5 +1,7 @@
 # Akka Persistence Typed Talk
 
+Live talk is [here](https://www.reddit.com/r/ScalaConferenceVideos/comments/dhnpj2/scala_italy_akka_persistence_typed_renato/)
+
 Slides are in Markdown and tailored for [Deckset](https://www.deckset.com/).
 PDF version is available [here](presentation.pdf)
 
